@@ -1,5 +1,7 @@
 # bangladeshi_note-coin_detect
 
+collab link https://colab.research.google.com/drive/1eNzYwcDC18B6OS1-cimA5P0S06CRQM5k#scrollTo=DvdfAR2zc0tc
+
 📄 Full Project Summary (README / Description)
 
 This project presents a complete deployment pipeline for a Bangladeshi Taka Note Detection system using a YOLO-based deep learning model. The trained model is integrated into a RESTful API built with FastAPI and containerized using Docker for scalable and portable deployment.
